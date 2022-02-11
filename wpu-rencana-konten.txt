@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 1. video javascript
+es6
+node react angular
 2. video PHP Framework
 3. Interview
 4.bikin vlog
