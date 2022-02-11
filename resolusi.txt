@@ -1,3 +1,4 @@
 1. IP minimal 3.5 semester ini
 2. Menguasai HTML CSS JS
 3. Menguasai Python dan C++ lebih dalam
+4. Tidak ada matkul yang ngulang lagi
